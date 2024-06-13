@@ -29,11 +29,6 @@ Once the contract is deployed, you can interact with it using the following meth
 
 Similarly, you can interact with the burn function. You can further interact by using different addresses, representing different users, each having separate account for transaction.
 
-## Authors
-
-@Anushka Singh(https://github.com/st-bfly)
-
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
