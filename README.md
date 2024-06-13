@@ -13,7 +13,7 @@ Written in Solidity, a programming language for creating smart contracts for the
 
 2.Ethereum development environment (e.g., Remix, Truffle) for deployment and interaction.
 
-Deployment
+### Deployment
 1. Clone this repository or download the Solidity contract file (token.sol) to your local development environment.
 2. Open the Solidity contract file in your preferred Solidity compiler (e.g., Remix, Truffle).
 3. Compile the contract to ensure there are no syntax errors or warnings.
@@ -31,7 +31,7 @@ Similarly, you can interact with the burn function. You can further interact by 
 
 ## Authors
 
-[@Anushka Singh]
+@Anushka Singh(https://github.com/st-bfly)
 
 
 ## License
