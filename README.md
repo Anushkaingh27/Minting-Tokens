@@ -1,4 +1,4 @@
-**# Minting-Tokens**
+**** Minting-Tokens****
 This project consists of a demo Smart Contract that is made using Solidity programming language. The program showcases the use cases of basics concepts of Solidity programming language.
 **# Description**
 Written in Solidity, a programming language for creating smart contracts for the Ethereum network, this is a simple contract. The contract enables a user (or a sender) to create, mint and burn tokens.
