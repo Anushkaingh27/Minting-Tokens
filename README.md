@@ -7,7 +7,7 @@ This project consists of a demo Smart Contract that is made using Solidity progr
 Written in Solidity, a programming language for creating smart contracts for the Ethereum network, this is a simple contract. The contract enables a user (or a sender) to create, mint and burn tokens. It has functions to both mint and burn tokens via user's choice. It maintains the total supply of the tokens as well as the balance for each user. Each user is identified by their account address. The program simply demonstrates the use of basic concepts of Solidity programming language such as Data Types, Mapping, Functions and Conditional Statements.
 
 ## Getting Started
-## Prerequisites
+### Prerequisites
 
 1.Solidity compiler version 0.8.0 or compatible.
 
@@ -31,7 +31,7 @@ Similarly, you can interact with the burn function. You can further interact by 
 
 ## Authors
 
-@Anushka
+[@Anushka Singh]
 
 
 ## License
