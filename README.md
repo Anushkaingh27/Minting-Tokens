@@ -31,7 +31,7 @@ Similarly, you can interact with the burn function. You can further interact by 
 
 ## Authors
 
-@Anushka Singh
+@Anushka
 
 
 ## License
