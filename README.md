@@ -8,11 +8,12 @@ Written in Solidity, a programming language for creating smart contracts for the
 
 ## Getting Started
 Prerequisites
+
 1.Solidity compiler version 0.8.0 or compatible.
 2.Ethereum development environment (e.g., Remix, Truffle) for deployment and interaction.
 
 Deployment
-1. Clone this repository or download the Solidity contract file (token.sol) to your local       development environment.
+1. Clone this repository or download the Solidity contract file (token.sol) to your local development environment.
 2. Open the Solidity contract file in your preferred Solidity compiler (e.g., Remix, Truffle).
 3. Compile the contract to ensure there are no syntax errors or warnings.
 4. Select the desired Ethereum network in your development environment.
@@ -29,7 +30,7 @@ Similarly, you can interact with the burn function. You can further interact by 
 
 ## Authors
 
-@Anushkaingh27
+@Anushka Singh
 
 
 ## License
