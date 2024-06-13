@@ -23,12 +23,16 @@ Written in Solidity, a programming language for creating smart contracts for the
 ### Interacting with the Contract
 Once the contract is deployed, you can interact with it using the following methods:
 
-1. Copy the address that your IDE provides (in Remix, Account Address is provided in the left   navigation pane under deployment section). 
+1. Copy the address that your IDE provides (in Remix, Account Address is provided in the left navigation pane under deployment section). 
 2. Enter the address and number of tokens in the mint function to mint tokens. 
 3. Check the updated supply of tokens and your balance. 
 
 Similarly, you can interact with the burn function. You can further interact by using different addresses, representing different users, each having separate account for transaction.
 
+
+## Authors
+Name: Anushka Singh Contact:anushkasingh272005@gmail.com
+
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License and also SPDX-License-Identifier comment at the top of the contract file for the full license text
