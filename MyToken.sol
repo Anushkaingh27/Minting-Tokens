@@ -25,25 +25,25 @@ contract MyToken {
 
     // mapping variable here
 
-    mapping (address => uint ) public bala;
-    function mint (address _add, uint _val) public{
-    totalSupply +=_val;
-    bala[add] +=_val;
+    mapping (address => uint ) public balan;
+    function mint (address _add, uint _value) public{
+    totalSupply +=_value;
+    balan[add] +=_value;
    }
 
     // mint function
 
-      function mint(address _add, uint _val) public{
-      totalSupply+=_val;            
-      bala[_add]+=_val;              
+      function mint(address _add, uint _value) public{
+      totalSupply+=_value;            
+      balan[_add]+=_value;              
     }
 
     // burn function
 
-     function burn(address _add, uint _val) public{
-        if(bala[_add]>=_val){
-            totalSupply-=_val;        
-            bala[_add]-=_val;          
+     function burn(address _add, uint _value) public{
+        if(balan[_add]>=_value){
+            totalSupply-=_value;        
+            balan[_add]-=_value;          
         }
     }
 
