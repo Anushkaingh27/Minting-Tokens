@@ -26,10 +26,6 @@ contract MyToken {
     // mapping variable here
 
     mapping (address => uint ) public balan;
-    function mint (address _add, uint _value) public{
-    totalSupply +=_value;
-    balan[_add] +=_value;
-   }
 
     // mint function
 
